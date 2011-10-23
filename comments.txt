@@ -1,3 +1,4 @@
 Hello, World!
 My name is Vlad.
 I'm 1st year student of BSUIR.
+I'm stydiing on Faculty of Information Technologies and Control.
